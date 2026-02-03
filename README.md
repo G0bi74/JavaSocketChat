@@ -2,9 +2,6 @@
 
 > **Uwaga:** To repozytorium zostało utworzone jako projekt edukacyjny mający na celu rozwinięcie umiejętności programowania w Javie, ze szczególnym naciskiem na programowanie sieciowe, wielowątkowość i architekturę klient-serwer.
 
-## Proponowana lepsza nazwa repozytorium
-**JavaSocketChat** lub **MultiThreadedChatApp** - nazwy te lepiej oddają technologię i funkcjonalność projektu.
-
 ## Opis projektu
 
 To repozytorium zawiera implementację aplikacji czatu w Javie wykorzystującej gniazda sieciowe (sockets) do komunikacji. Projekt składa się z dwóch głównych komponentów:
